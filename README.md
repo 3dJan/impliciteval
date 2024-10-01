@@ -1,1 +1,1 @@
-# impliciteval
+Just a quick draft of a node based function evaluator.
